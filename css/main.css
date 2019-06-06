@@ -1,0 +1,45 @@
+body {
+  /*background-image: url("Images/Butterfly.jpg");*/
+}
+
+h1 {
+  color: green;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+  margin: 0px;
+  padding: 10px;
+  border: 2px solid red;
+}
+
+ul {
+  border: 1px dashed green;
+  margin: 10px;
+  padding: 0px;
+}
+
+li {
+  border: 3px solid rebeccapurple;
+  margin: 5px;
+  padding: 20px;
+
+}
+
+.flexslider{
+  width: 400px;
+}
+
+.flexslider img {
+  width:100%;
+}
